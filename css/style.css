@@ -74,15 +74,24 @@ h3 {
   font-weight: bold;
   font-size: 18px;
   margin-bottom: 25px;
-  color: #444444;
+  color: #f27807;
   position: relative;
 }
-h4 {
-  font-size: 16px;
+
+.post h3.#hea1{ text-transform: uppercase;
   font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 25px;
+  color: #f27807;
+  position: relative; }
+
+h4 {
   text-transform: uppercase;
-  margin-bottom: 0px;
-  margin-top: 20px;
+  font-weight: bold;
+  font-size: 28px;
+  margin-bottom: 25px;
+  color: #f27807;
+  position: relative;
 }
 
 p {
